@@ -86,8 +86,8 @@ body {
   background-position: center;
   animation: hideSplashScreen 1.5s ease-in-out forwards;
   /* forwards 마지막의 keyframes를 기억해라 */
-  width: 100%;
-  height: 1500px;
+  width: 100vw;
+  height: 100vh;
   z-index: 1000;
   overflow: hidden;
 }
